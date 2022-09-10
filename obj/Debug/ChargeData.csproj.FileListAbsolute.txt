@@ -1,0 +1,10 @@
+C:\Users\Valerii\source\repos\ChargeData\bin\Debug\ChargeData.exe.config
+C:\Users\Valerii\source\repos\ChargeData\bin\Debug\ChargeData.exe
+C:\Users\Valerii\source\repos\ChargeData\bin\Debug\ChargeData.pdb
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.csproj.AssemblyReference.cache
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.Form1.resources
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.Properties.Resources.resources
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.csproj.GenerateResource.cache
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.exe
+C:\Users\Valerii\source\repos\ChargeData\obj\Debug\ChargeData.pdb
